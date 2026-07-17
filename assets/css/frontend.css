@@ -1,0 +1,28 @@
+.waoc-thankyou-box {
+    margin-top: 30px;
+    padding: 25px;
+    background: #f8f9fa;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.waoc-thankyou-box h3 {
+    margin-bottom: 10px;
+}
+
+.waoc-whatsapp-btn {
+    display: inline-block;
+    background: #25D366;
+    color: #ffffff;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.waoc-whatsapp-btn:hover {
+    opacity: 0.9;
+    color: #ffffff;
+}

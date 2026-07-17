@@ -1,0 +1,28 @@
+.waoc-status-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.waoc-status-pending {
+    background: #fff3cd;
+    color: #856404;
+}
+
+.waoc-status-confirmed {
+    background: #d4edda;
+    color: #155724;
+}
+
+.waoc-admin-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.waoc-admin-card h2 {
+    margin-top: 0;
+}
