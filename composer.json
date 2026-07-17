@@ -1,0 +1,25 @@
+{
+    "name": "sidraweb/whatsapporder-confirmation",
+    "description": "WooCommerce WhatsApp Order Confirmation with PDF generation",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Sidraweb",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "dompdf/dompdf": "^3.1"
+    },
+    "autoload": {
+        "classmap": [
+            "includes/"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
